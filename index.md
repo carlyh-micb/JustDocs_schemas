@@ -1,11 +1,12 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 # Schema Library
 
-Welcome to the Schema library for the Data Hub project.
+Welcome to the [Schema library](https://carlyh-micb.github.io/JustDocs_schemas/) for the Data Hub project.
 
 These is a library of active schema projects and so as documentation is refined the contents will change.
 
