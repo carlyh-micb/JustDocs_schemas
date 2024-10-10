@@ -1,16 +1,18 @@
 ---
 layout: default
 title: Chicken gut health
+nav_order: 2
 ---
 
 ## Schema information
 **Name**: Chicken gut health  
 **Description**: Measurements of chicken gut health  
 **Classification**: CRDC:RDF40  
+
 ## Schema quick view
 
 | Attribute | Label | Description |
-|:--- |:--- |:--- |
+| --- | --- | --- |
 | Age | Bird Age | age of bird in days |
 | BreastWt | Breast Weight | Breast weight in grams |
 | Farm | Farm Letter Indentifier | a letter given to the farm for identification |
@@ -19,6 +21,7 @@ title: Chicken gut health
 | LiveWt | Live Weight | weight in grams at 28 days |
 
 ## International schema information
+
 | Language | Name | Description |
 | --- | --- | --- |
 | English | Chicken gut health | Measurements of chicken gut health |
