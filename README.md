@@ -1,3 +1,6 @@
+# View the site at
+https://carlyh-micb.github.io/JustDocs_schemas/
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
