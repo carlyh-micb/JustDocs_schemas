@@ -1,3 +1,8 @@
+---
+layout: default
+title: Chicken gut health
+---
+
 ## Schema information
 **Name**: Chicken gut health  
 **Description**: Measurements of chicken gut health  

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Transcriptome Analysis
+---
+
 ## Schema information
 **Name**: Transcriptome Analysis  
 **Description**: Experimental results from a transcriptome analysis experiment  

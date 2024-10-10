@@ -1,3 +1,8 @@
+---
+layout: default
+title: Spatio-Temporal
+---
+
 ## Schema information
 **Name**: Spatio-Temporal Observational Study  
 **Description**: Spatio-temporal observational study of individuals sampled from various locations across time.  

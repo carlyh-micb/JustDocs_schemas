@@ -1,3 +1,10 @@
+---
+layout: default
+title: Soil
+---
+
+
+
 ## Schema information
 **Name**: soil  
 **Description**: A schema describing soil samples together with water content measurements.  
