@@ -1,9 +1,9 @@
 ---
 layout: default  
-title: Milk Aggregation  
+title: Milk Aggregation  2
 ---
 
-## Schema information
+# Schema information
 
 **Name**: Milk Aggregation  
 **Description**: Aggregate data around milking events.  
