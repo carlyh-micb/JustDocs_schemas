@@ -12,6 +12,10 @@ These is a library of active schema projects and so as documentation is refined 
 
 Because this work is all done within GitHub, the complete history of changes is available using GitHub Commit history tools.
 
+## Add to the Library
+
+Note: Under active development
+
 With data that you have or intend to collect, describe your data using the [Semantic Engine](https://www.semanticengine.org). You will download a .zip version of your schema which is a machine-readable version. Then on the main page of the Semantic Engine drag-and-drop your schema and generate a markdown version.
 
 In GitHub upload your markdown file (which you can rename) to the schema folder. Edit this file to add the following markdown text to the top:
