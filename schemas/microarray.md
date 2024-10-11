@@ -3,11 +3,22 @@ layout: default
 title: Transcriptome Analysis
 ---
 
-## Schema information
+# Schema information
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+
 **Name**: Transcriptome Analysis  
 **Description**: Experimental results from a transcriptome analysis experiment  
 **Classification**: CRDC:RDF40  
+
 ## Schema quick view
+
 | Attribute | Label | Description |
 | --- | --- | --- |
 | ADAPTIVE...High_1290_R1_001..GE....Chromosome | ADAPTIVE...High_1290_R1_001..GE....Chromosome |  |
@@ -264,14 +275,20 @@ title: Transcriptome Analysis
 | INNATE...Means | INNATE...Means |  |
 | INNATE...Normalized.means | INNATE...Normalized.means |  |
 | INNATE...Transformed.means | INNATE...Transformed.means |  |
+
 ## International schema information
+
 | Language | Name | Description |
 | --- | --- | --- |
 | English | Transcriptome Analysis | Experimental results from a transcriptome analysis experiment |
 | French | Transcriptome Experiment | Résultats expérimentaux d'une expérience de transcriptome |
+
 ## Selection lists
+
 ### English
+
 #### ADAPTIVE...High_1290_R1_001..GE....Chromosome entry codes
+
 | Entry code | Label |
 | --- | --- |
 | 1 | Chromosome 1 |
@@ -299,7 +316,9 @@ title: Transcriptome Analysis
 | MT | Mitochondrial DNA |
 | X | Chromosome X |
 | Y | Chromosome Y |
+
 #### ADAPTIVE...High_2919_R1_001..GE....Chromosome entry codes
+
 | Entry code | Label |
 | --- | --- |
 | 1 | Chromosome 1 |
@@ -327,7 +346,9 @@ title: Transcriptome Analysis
 | MT | Mitochondrial DNA |
 | X | Chromosome X |
 | Y | Chromosome Y |
+
 #### ADAPTIVE...High_2957_R1_001..GE....Chromosome entry codes
+
 | Entry code | Label |
 | --- | --- |
 | 1 | Chromosome 1 |
@@ -355,7 +376,9 @@ title: Transcriptome Analysis
 | MT | Mitochondrial DNA |
 | X | Chromosome X |
 | Y | Chromosome Y |
+
 #### ADAPTIVE...High_2972_R1_001..GE....Chromosome entry codes
+
 | Entry code | Label |
 | --- | --- |
 | 1 | Chromosome 1 |
@@ -383,7 +406,9 @@ title: Transcriptome Analysis
 | MT | Mitochondrial DNA |
 | X | Chromosome X |
 | Y | Chromosome Y |
+
 #### ADAPTIVE...High_3006_R1_001..GE....Chromosome entry codes
+
 | Entry code | Label |
 | --- | --- |
 | 1 | Chromosome 1 |
@@ -411,7 +436,9 @@ title: Transcriptome Analysis
 | MT | Mitochondrial DNA |
 | X | Chromosome X |
 | Y | Chromosome Y |
+
 #### INNATE...High_1031_R1_001..GE....Chromosome entry codes
+
 | Entry code | Label |
 | --- | --- |
 | 1 | Chromosome 1 |
@@ -439,7 +466,9 @@ title: Transcriptome Analysis
 | MT | Mitochondrial DNA |
 | X | Chromosome X |
 | Y | Chromosome Y |
+
 #### INNATE...High_1059_R1_001..GE....Chromosome entry codes
+
 | Entry code | Label |
 | --- | --- |
 | 1 | Chromosome 1 |
@@ -467,7 +496,9 @@ title: Transcriptome Analysis
 | MT | Mitochondrial DNA |
 | X | Chromosome X |
 | Y | Chromosome Y |
+
 #### INNATE...High_1117_R1_001..GE....Chromosome entry codes
+
 | Entry code | Label |
 | --- | --- |
 | 1 | Chromosome 1 |
@@ -495,7 +526,9 @@ title: Transcriptome Analysis
 | MT | Mitochondrial DNA |
 | X | Chromosome X |
 | Y | Chromosome Y |
+
 #### INNATE...High_1186_R1_001..GE....Chromosome entry codes
+
 | Entry code | Label |
 | --- | --- |
 | 1 | Chromosome 1 |
@@ -523,7 +556,9 @@ title: Transcriptome Analysis
 | MT | Mitochondrial DNA |
 | X | Chromosome X |
 | Y | Chromosome Y |
+
 #### INNATE...High_1246_R1_001..GE....Chromosome entry codes
+
 | Entry code | Label |
 | --- | --- |
 | 1 | Chromosome 1 |
@@ -551,8 +586,11 @@ title: Transcriptome Analysis
 | MT | Mitochondrial DNA |
 | X | Chromosome X |
 | Y | Chromosome Y |
+
 ### French
+
 #### ADAPTIVE...High_1290_R1_001..GE....Chromosome entry codes
+
 | Entry code | Label |
 | --- | --- |
 | 1 | Chromosome 1 |
@@ -580,7 +618,9 @@ title: Transcriptome Analysis
 | MT | ADN mitochondrial |
 | X | Chromosome X |
 | Y | Chromosome Y |
+
 #### ADAPTIVE...High_2919_R1_001..GE....Chromosome entry codes
+
 | Entry code | Label |
 | --- | --- |
 | 1 | Chromosome 1 |
@@ -608,7 +648,9 @@ title: Transcriptome Analysis
 | MT | ADN mitochondrial |
 | X | Chromosome X |
 | Y | Chromosome Y |
+
 #### ADAPTIVE...High_2957_R1_001..GE....Chromosome entry codes
+
 | Entry code | Label |
 | --- | --- |
 | 1 | Chromosome 1 |
@@ -636,7 +678,9 @@ title: Transcriptome Analysis
 | MT | ADN mitochondrial |
 | X | Chromosome X |
 | Y | Chromosome Y |
+
 #### ADAPTIVE...High_2972_R1_001..GE....Chromosome entry codes
+
 | Entry code | Label |
 | --- | --- |
 | 1 | Chromosome 1 |
@@ -664,7 +708,9 @@ title: Transcriptome Analysis
 | MT | ADN mitochondrial |
 | X | Chromosome X |
 | Y | Chromosome Y |
+
 #### ADAPTIVE...High_3006_R1_001..GE....Chromosome entry codes
+
 | Entry code | Label |
 | --- | --- |
 | 1 | Chromosome 1 |
@@ -692,7 +738,9 @@ title: Transcriptome Analysis
 | MT | ADN mitochondrial |
 | X | Chromosome X |
 | Y | Chromosome Y |
+
 #### INNATE...High_1031_R1_001..GE....Chromosome entry codes
+
 | Entry code | Label |
 | --- | --- |
 | 1 | Chromosome 1 |
@@ -720,7 +768,9 @@ title: Transcriptome Analysis
 | MT | ADN mitochondrial |
 | X | Chromosome X |
 | Y | Chromosome Y |
+
 #### INNATE...High_1059_R1_001..GE....Chromosome entry codes
+
 | Entry code | Label |
 | --- | --- |
 | 1 | Chromosome 1 |
@@ -748,7 +798,9 @@ title: Transcriptome Analysis
 | MT | ADN mitochondrial |
 | X | Chromosome X |
 | Y | Chromosome Y |
+
 #### INNATE...High_1117_R1_001..GE....Chromosome entry codes
+
 | Entry code | Label |
 | --- | --- |
 | 1 | Chromosome 1 |
@@ -776,7 +828,9 @@ title: Transcriptome Analysis
 | MT | ADN mitochondrial |
 | X | Chromosome X |
 | Y | Chromosome Y |
+
 #### INNATE...High_1186_R1_001..GE....Chromosome entry codes
+
 | Entry code | Label |
 | --- | --- |
 | 1 | Chromosome 1 |
@@ -804,7 +858,9 @@ title: Transcriptome Analysis
 | MT | ADN mitochondrial |
 | X | Chromosome X |
 | Y | Chromosome Y |
+
 #### INNATE...High_1246_R1_001..GE....Chromosome entry codes
+
 | Entry code | Label |
 | --- | --- |
 | 1 | Chromosome 1 |
@@ -832,8 +888,11 @@ title: Transcriptome Analysis
 | MT | ADN mitochondrial |
 | X | Chromosome X |
 | Y | Chromosome Y |
+
 ## Schema details
+
 ### English
+
 | Attribute | Sensitive | Unit | Type | Label | Description | List | Character encoding | Format rule |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ADAPTIVE...High_1290_R1_001..GE....Chromosome | false |  | Text | ADAPTIVE...High_1290_R1_001..GE....Chromosome |  | Chromosome 1, Chromosome 2, Chromosome 3, Chromosome 4, Chromosome 5, Chromosome 6, Chromosome 7, Chromosome 8, Chromosome 9, Chromosome 10, Chromosome 11, Chromosome 12, Chromosome 13, Chromosome 14, Chromosome 15, Chromosome 16, Chromosome 17, Chromosome 18, Chromosome 19, Chromosome 20, Chromosome 21, Chromosome 22, Mitochondrial DNA, Chromosome X, Chromosome Y | utf-8 | ^\[A\-Za\-z0\-9\_\]\*$ |
@@ -1090,7 +1149,9 @@ title: Transcriptome Analysis
 | INNATE...Means | false |  | Numeric | INNATE...Means |  | Not a list | utf-8 | ^\[\+\-\]?\\d\*\\\.?\\d\+$ |
 | INNATE...Normalized.means | false |  | Numeric | INNATE...Normalized.means |  | Not a list | utf-8 | ^\[\+\-\]?\\d\*\\\.?\\d\+$ |
 | INNATE...Transformed.means | false |  | Numeric | INNATE...Transformed.means |  | Not a list | utf-8 | ^\[\+\-\]?\\d\*\\\.?\\d\+$ |
+
 ### French
+
 | Attribute | Sensitive | Unit | Type | Label | Description | List | Character encoding | Format rule | Format rule |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ADAPTIVE...High_1290_R1_001..GE....Chromosome | false |  | Text | ADAPTIVE...High_1290_R1_001..GE....Chromosome |  | Chromosome 1, Chromosome 2, Chromosome 3, Chromosome 4, Chromosome 5, Chromosome 6, Chromosome 7, Chromosome 8, Chromosome 9, Chromosome 10, Chromosome 11, Chromosome 12, Chromosome 13, Chromosome 14, Chromosome 15, Chromosome 16, Chromosome 17, Chromosome 18, Chromosome 19, Chromosome 20, Chromosome 21, Chromosome 22, ADN mitochondrial, Chromosome X, Chromosome Y | utf-8 | ^\[A\-Za\-z0\-9\_\]\*$ |
@@ -1347,8 +1408,11 @@ title: Transcriptome Analysis
 | INNATE...Means | false |  | Numeric | INNATE...Means |  | Not a list | utf-8 | ^\[\+\-\]?\\d\*\\\.?\\d\+$ |
 | INNATE...Normalized.means | false |  | Numeric | INNATE...Normalized.means |  | Not a list | utf-8 | ^\[\+\-\]?\\d\*\\\.?\\d\+$ |
 | INNATE...Transformed.means | false |  | Numeric | INNATE...Transformed.means |  | Not a list | utf-8 | ^\[\+\-\]?\\d\*\\\.?\\d\+$ |
+
 ## Schema SAIDs
+
 **Capture base**: E0aIw86nmdXW-q_5ZNfG2IYTjVeLlBwlybl25FbNO924
+
 | Layer | SAID |
 | --- | --- |
 | character_encoding | ELZ3e5V504NmvpwjVWgxt84n_0NeZJ6yFZJv-sC3_wxY |

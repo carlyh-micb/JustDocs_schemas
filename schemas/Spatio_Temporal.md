@@ -1,13 +1,16 @@
 ---
 layout: default
-title: Spatio-Temporal
+title: Spatio-Temporal Observational Study
 ---
 
 ## Schema information
+
 **Name**: Spatio-Temporal Observational Study  
 **Description**: Spatio-temporal observational study of individuals sampled from various locations across time.  
 **Classification**: RDF106  
+
 ## Schema quick view
+
 | Attribute | Label | Description |
 | --- | --- | --- |
 | Age | Age | Estimated age |
@@ -26,18 +29,26 @@ title: Spatio-Temporal
 | Waterbody | Waterbody | The body of water the site belongs to |
 | Weight | Weight | Observed weight |
 | Year | Year | Year the sample was collected in |
+
 ## International schema information
+
 | Language | Name | Description |
 | --- | --- | --- |
 | English | Spatio-Temporal Observational Study | Spatio-temporal observational study of individuals sampled from various locations across time. |
+
 ## Selection lists
+
 ### English
+
 #### Sex entry codes
+
 | Entry code | Label |
 | --- | --- |
 | F | Female |
 | M | Male |
+
 #### Site entry codes
+
 | Entry code | Label |
 | --- | --- |
 | AR DS Bitumount | Athabasca River, Downstream Bitumount site |
@@ -60,17 +71,24 @@ title: Spatio-Temporal
 | PR Pulp Mill | Peace River, Pulp Mill site |
 | PR Shaftesbury | Peace River, Shaftesbury site |
 | PR Waste Water Plant | Peace River, Waste Water plantsite |
+
 #### Species entry codes
+
 | Entry code | Label |
 | --- | --- |
 | Trout-perch | Percopsis omiscomaycus |
+
 #### Waterbody entry codes
+
 | Entry code | Label |
 | --- | --- |
 | Athabasca River | Athabasca River in Alberta, Canada |
 | Peace River | Peace River in Alberta, Canada |
+
 ## Schema details
+
 ### English
+
 | Attribute | Sensitive | Unit | Type | Label | Description | List | Character encoding |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Age | true | Year | Numeric | Age | Estimated age | Not a list | utf-8 |
@@ -89,8 +107,11 @@ title: Spatio-Temporal
 | Waterbody | false |  | Text | Waterbody | The body of water the site belongs to | Athabasca River in Alberta, Canada, Peace River in Alberta, Canada | utf-8 |
 | Weight | true | cm | Numeric | Weight | Observed weight | Not a list | utf-8 |
 | Year | false | Date | Numeric | Year | Year the sample was collected in | Not a list | utf-8 |
+
 ## Schema SAIDs
+
 **Capture base**: ESlpOFIwkd9e1tExaSpupiCIQn86Bq9vnv3yT1CCm52Y
+
 | Layer | SAID |
 | --- | --- |
 | character_encoding | EY9aJfeuB_nDGSQ3dKUkIX1V__aYZg0t1u-NoFv4yJS0 |

@@ -3,13 +3,21 @@ layout: default
 title: Soil
 ---
 
+# Schema information
+{: .no_toc }
 
+## Table of Contents
+{: .no_toc .text-delta }
 
-## Schema information
+1. TOC
+{:toc}
+
 **Name**: soil  
 **Description**: A schema describing soil samples together with water content measurements.  
 **Classification**: RDF401  
+
 ## Schema quick view
+
 | Attribute | Label | Description |
 | --- | --- | --- |
 | collect_date |  |  |
@@ -30,20 +38,28 @@ title: Soil
 | temperature |  |  |
 | time_in |  |  |
 | time_out |  |  |
+
 ## International schema information
+
 | Language | Name | Description |
 | --- | --- | --- |
 | English | soil | A schema describing soil samples together with water content measurements. |
+
 ## Selection lists
+
 ### English
+
 #### farm entry codes
+
 | Entry code | Label |
 | --- | --- |
 | A | Hensall farm |
 | B | Guelph farm north |
 | C | Guelph farm south |
 | D | Lakeridge farm |
+
 #### samplers entry codes
+
 | Entry code | Label |
 | --- | --- |
 | Aedan | Aedan |
@@ -52,8 +68,11 @@ title: Soil
 | Makhi | Makhi |
 | Nathan | Nathan |
 | Zara | Zara |
+
 ## Schema details
+
 ### English
+
 | Attribute | Sensitive | Unit | Type | Label | Description | List | Character encoding | Required entry | Format rule | Cardinality |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | collect_date | false |  | DateTime |  |  | Not a list | utf-8 | true | ^\(?:\(?:19\|20\)\\d\{2\}\)\-\(?:0\[1\-9\]\|1\[0\-2\]\)\-\(?:0\[1\-9\]\|\[1\-2\]\\d\|3\[0\-1\]\)$ |  |
@@ -74,8 +93,11 @@ title: Soil
 | temperature | false | C | Numeric |  |  | Not a list | utf-8 | false | ^\[\-\+\]?\\d\*\\\.?\\d\+$ |  |
 | time_in | false |  | DateTime |  |  | Not a list | utf-8 | false | ^\(\[01\]\[0\-9\]\|2\[0\-3\]\):\[0\-5\]\[0\-9\]:\[0\-5\]\[0\-9\]$/gm |  |
 | time_out | false |  | DateTime |  |  | Not a list | utf-8 | false | ^\(\[01\]\[0\-9\]\|2\[0\-3\]\):\[0\-5\]\[0\-9\]:\[0\-5\]\[0\-9\]$/gm |  |
+
 ## Schema SAIDs
+
 **Capture base**: EALZtciYP_Tn97BFilKL3C8ofMxF-xrswDmU9NC4CP9M
+
 | Layer | SAID |
 | --- | --- |
 | cardinality | EHwYQEnhhxdIEcX2qOHKepHWs5UapeXoN5Xmpx1gy2e8 |

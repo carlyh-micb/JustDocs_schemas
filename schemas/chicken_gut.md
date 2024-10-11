@@ -38,6 +38,7 @@ nav_order: 2
 | Glucose | false | mmol/L | Numeric | Glucose Concentration | glucose content in mmol/L | Not a list | utf-8 |
 | Lipase | false | U/L | Numeric | Lipase Content | lipase content in U/L | Not a list | utf-8 |
 | LiveWt | false | g | Numeric | Live Weight | weight in grams at 28 days | Not a list | utf-8 |
+
 ### French
 
 | Attribute | Sensitive | Unit | Type | Label | Description | List | Character encoding |
