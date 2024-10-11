@@ -3,7 +3,7 @@ layout: default
 title: Insect Counting  
 ---
 
-## Schema information
+# Schema information
 
 **Name**: Insect Counting  
 **Description**: A schema for insect counts developed at the University of Guelph as an ADC test schema  

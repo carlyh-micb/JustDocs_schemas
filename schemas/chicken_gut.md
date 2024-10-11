@@ -4,7 +4,8 @@ title: Chicken gut health
 nav_order: 2
 ---
 
-## Schema information
+# Schema information
+
 **Name**: Chicken gut health  
 **Description**: Measurements of chicken gut health  
 **Classification**: CRDC:RDF40  
