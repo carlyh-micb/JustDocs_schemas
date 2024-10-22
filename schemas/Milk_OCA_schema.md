@@ -1,6 +1,7 @@
 ---
 layout: default  
-title: Milk Aggregation  2
+title: Milk Aggregation
+parent: PEACE
 ---
 
 # Schema information

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Soil
+parent: SOCIAL
 ---
 
 # Schema information
