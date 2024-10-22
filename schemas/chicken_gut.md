@@ -9,6 +9,7 @@ nav_order: 2
 **Name**: Chicken gut health  
 **Description**: Measurements of chicken gut health  
 **Classification**: CRDC:RDF40  
+**Researcher**: Carly Huitema
 
 ## Schema quick view
 
