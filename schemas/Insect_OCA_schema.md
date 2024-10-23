@@ -1,6 +1,7 @@
 ---
 layout: default  
 title: Insect Counting  
+parent: PEACE
 ---
 
 # Schema information
