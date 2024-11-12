@@ -5,6 +5,13 @@ parent: PEACE
 ---
 
 # Schema information
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 **Name**: Milk Aggregation  
 **Description**: Aggregate data around milking events.  
