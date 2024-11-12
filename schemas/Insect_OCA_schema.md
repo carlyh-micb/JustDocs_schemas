@@ -5,6 +5,13 @@ parent: PEACE
 ---
 
 # Schema information
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 **Name**: Insect Counting  
 **Description**: A schema for insect counts developed at the University of Guelph as an ADC test schema  
