@@ -4,6 +4,13 @@ title: Spatio-Temporal Observational Study
 ---
 
 # Schema information
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 **Name**: Spatio-Temporal Observational Study  
 **Description**: Spatio-temporal observational study of individuals sampled from various locations across time.  
