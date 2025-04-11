@@ -37,7 +37,7 @@ title: test
 | Attribute | Sensitive | Unit | Type | Character encoding | Format rule | Range - lower | Lower inclusive? | Range - upper | Upper inclusive?|
 | --- | --- | --- | --- | --- | --- |
 | v1 | false |  | Numeric |  | ^\[\-\+\]?\\d\*\\\.?\\d\+$ | -2.3 | true | ||
-| v2 | false |  | DateTime |  | ^\(\\d\{4\}\)$ | 2000 | false | 2025 true |
+| v2 | false |  | DateTime |  | ^\(\\d\{4\}\)$ | 2000 | false | 2025 | true |
 | v3 | false |  | Text |  |  |||||
 
 ## Language-specific schema details
