@@ -118,6 +118,14 @@ title: soil
 | time_out | false |  | DateTime |  | false | ^\(\[01\]\\d\|2\[0\-3\]\):\(\[0\-5\]\\d\):\(\[0\-5\]\\d\)$ |  |
 | moisture | false | % | Numeric |  | false | ^\[\-\+\]?\\d\*\\\.?\\d\+$ |  | % |
 
+### Unit framing
+| term | value | 
+| --- | --- | 
+|id|UCUM|
+|label|Unified Code for Units of Measure|
+|location|https://ucum.org/|
+|version||
+
 ## Language-specific schema details
 
 ### French
