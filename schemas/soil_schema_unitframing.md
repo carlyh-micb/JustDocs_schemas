@@ -118,13 +118,14 @@ title: soil
 | time_out | false |  | DateTime |  | false | ^\(\[01\]\\d\|2\[0\-3\]\):\(\[0\-5\]\\d\):\(\[0\-5\]\\d\)$ |  |
 | moisture | false | % | Numeric |  | false | ^\[\-\+\]?\\d\*\\\.?\\d\+$ |  | % |
 
-### Unit framing
-| term | value | 
-| --- | --- | 
-|id|UCUM|
-|label|Unified Code for Units of Measure|
-|location|https://ucum.org/|
-|version||
+### Unit framing 
+
+| Term | Value |
+| --- | --- |
+| id | UCUM |
+| label | Unified Code for Units of Measure |
+| location | https://ucum.org/ |
+| version |  |
 
 ## Language-specific schema details
 
@@ -200,5 +201,5 @@ title: soil
 | ordering | EPOY9fKzN2jfV3xjCWW7XotenGgQsQryS5KfI6vJyedK | community/overlays/adc/ordering/1.1 |
 | unit_framing | EM30Z6puh1ehTaHoKWb2G_xPhlZ6M9RqLXRAuZEXwYol | community/overlays/adc/unit_framing/1.1 |
 
-**Date created**: 2025-07-15 13:42:01
+**Date created**: 2025-07-25 16:35:25
 
